@@ -1,3 +1,9 @@
+# :rotating_light: Warning
+
+This repository is DEPRECATED and not maintaned anymore.
+
+---
+
 # About
 
 <img src="http://f.cl.ly/items/0R31371i3u3J1h2r1A01/ios%2009.19.32.jpg" width=800px>
